@@ -1,7 +1,6 @@
 package com.mber.husivm.lesson314_danger_different_type;
 
 public class Main {
-
     public static void main(String[] args) {
         Gen<House> gen = new Gen<>();
         add(gen);
