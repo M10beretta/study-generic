@@ -1,4 +1,4 @@
-package com.mber.husivm.lesson310_what_is_generic;
+package com.mber.husivm.lesson310_what_is_a_generic;
 
 
 public class Main {
@@ -13,7 +13,6 @@ public class Main {
         stringGenObj.setT("Hi");
         Object stringGenObjT = stringGenObj.getT();
         System.out.println(stringGenObjT);
-
     }
 }
 
